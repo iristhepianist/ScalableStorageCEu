@@ -1,0 +1,26 @@
+# Machine Name
+scalablestorageceu.machine.scalable_storage.name=Scalable Storage Silo
+
+# Multiblock Display Text
+scalablestorageceu.machine.scalable_storage.capacity=Max Capacity: %s items
+scalablestorageceu.machine.scalable_storage.stored=Stored: %s (%s/%s items - %.1f%% full)
+scalablestorageceu.machine.scalable_storage.empty=Empty - Insert any item to set type
+
+# Machine Tooltips
+scalablestorageceu.machine.scalable_storage.tooltip1=Stores massive amounts of a single item type
+scalablestorageceu.machine.scalable_storage.tooltip2=Can be upgraded to increase storage capacity and add functionality
+
+# Items with Full Registry Names
+item.storage_upgrade_tier_1.name=Basic Storage Upgrade
+item.storage_upgrade_tier_2.name=Advanced Storage Upgrade
+item.storage_upgrade_tier_3.name=Elite Storage Upgrade
+item.void_upgrade.name=Void Upgrade
+
+# Item Tooltips
+scalablestorageceu.storage_upgrade_tier_1.tooltip=Upgrades storage to 32M items (10,000 uses :- ~27.8 hours)
+scalablestorageceu.storage_upgrade_tier_2.tooltip=Upgrades storage to 64M items (100,000 uses :- ~277.8 hours)
+scalablestorageceu.storage_upgrade_tier_3.tooltip=Upgrades storage to 256M items (Permanent :- Never expires)
+scalablestorageceu.void_upgrade.tooltip=Destroys excess items when storage and output are full
+
+# Controller Block
+tile.scalable_storage_controller.tooltip=Author: iristhpianist
